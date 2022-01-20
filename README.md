@@ -6,5 +6,15 @@ Welcome to the course repository for ORLJ 5025 People Analytics with Dr. Irwin J
 
 * [Data](data) 
 * [R Code](code) 
-* Useful Code
+* [Useful Code](Useful_Code)
 
+
+
+
+
+## Useful Code 
+
+### Libraries 
+
+`library(peopleanalyticsdata)`
+`library(tidyverse)`
