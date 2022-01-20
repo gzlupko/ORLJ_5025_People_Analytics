@@ -7,6 +7,10 @@ Welcome to the course repository for ORLJ 5025 People Analytics with Dr. Irwin J
 * [Data](data) 
 * [R Code](code) 
 * [Useful Code](Useful_Code)
+  * [Libaries](Libraries)
+  * Data Cleaning 
+  * Visualizations 
+  * Modelling 
 
 
 
