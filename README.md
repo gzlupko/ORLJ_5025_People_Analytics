@@ -16,5 +16,8 @@ Welcome to the course repository for ORLJ 5025 People Analytics with Dr. Irwin J
 
 ### Libraries 
 
-`library(peopleanalyticsdata)`
-`library(tidyverse)`
+``` 
+library(peopleanalyticsdata) # from Keith McNulty's Handbook of Regression Modelling for People Analytics 
+library(tidyverse)  # essential library for data cleaning and EDA 
+
+```
