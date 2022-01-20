@@ -16,8 +16,17 @@ Welcome to the course repository for ORLJ 5025 People Analytics with Dr. Irwin J
 
 ### Libraries 
 
+First, one of the most useful libraries recommended when working with data in R in the tidyverse, which is actually a constellation of related packages like ggplot2, dplyr, and stringr. You can load the tidyverse with the following command. 
+
 ``` 
-library(peopleanalyticsdata) # from Keith McNulty's Handbook of Regression Modelling for People Analytics 
-library(tidyverse)  # essential library for data cleaning and EDA 
+library(tidyverse)
+```
+
+Alternatively, the following packages that are contained in the tidyverse can be loaded into the R environment as follows. 
+
+```
+library(ggplot2) # data visualizations 
+library(dplyr) # data manipulation and cleaning 
+library(stringr) # manipulating character strings 
 
 ```
