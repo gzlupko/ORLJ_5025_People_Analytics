@@ -5,6 +5,6 @@ Welcome to the course repository for ORLJ 5025 People Analytics with Dr. Irwin J
 ### Table of Contents 
 
 * [Data](data) 
-* R Code 
-* 
+* [R Code](code) 
+* Useful Code
 
